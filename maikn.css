@@ -1,0 +1,53 @@
+.cd{
+    position: fixed;
+    top: 0;
+    background-color: rgb(82, 175, 163);
+    width: 100%;
+    padding: 20px 0;
+  
+}
+.playlist{
+    margin-top: 200px;
+    
+    
+}
+.tong{
+    height: 900px;
+    overflow: auto;
+    
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.progress{
+    margin: auto;
+}
+
+.cd_img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.hanare{
+    margin: 10px 5px;
+    
+}
+
+.playing{
+    color: red;
+}
+.israndom{
+    color: red;
+}
+.isrepeat{
+    color: red;
+}
+
+.background-color{
+    background-color: brown;
+}
